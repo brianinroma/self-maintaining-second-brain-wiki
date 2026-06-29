@@ -1,0 +1,7 @@
+# Keep the machinery; never commit a real vault's content
+/raw/
+/wiki/
+!templates/
+.DS_Store
+.obsidian/
+*.tmp
